@@ -2,7 +2,7 @@ FROM	debian:buster
 
 LABEL	maintainer="danrodri@student.42madrid.com"
 
-ENV		AUTOINDEX on
+ENV		AIENV on
 
 WORKDIR	/tmp/
 
